@@ -25,15 +25,20 @@ AWS | AZURE | Google
 
 AWS | AZURE | Google
 ----| ----- | ------
-
+[deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
+[deploy_qualys_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | Work in Progress | Work in Progress
+[deploy_qualys_bootstap-AWS](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | Work in Progress | Work in Progress
+[deploy_qualys_CD_Pipeline_AWS](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | Work in Progress | Work in Progress
+[deploy_qualys_s3](https://github.com/Qualys-Public/deploy_qualys_s3)| Work in Progress | Work in Progress
+   
 **Connector Automation**
 
 AWS | AZURE | Google
 ----| ----- | ------
-[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | WOrk in Progress | Work in Progress
-[aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) | WOrk in Progress | Work in Progress
-[add_aws_account](https://github.com/Qualys-Public/add_aws_account) | WOrk in Progress | Work in Progress
-[aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| WOrk in Progress | Work in Progress
+[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | Work in Progress | Work in Progress
+[aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) | Work in Progress | Work in Progress
+[add_aws_account](https://github.com/Qualys-Public/add_aws_account) | Work in Progress | Work in Progress
+[aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| Work in Progress | Work in Progress
 
 #### Process Automation
 
