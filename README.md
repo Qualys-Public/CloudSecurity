@@ -42,9 +42,11 @@ AWS | AZURE | Google
 
 #### Process Automation
 
-**Golden AMI Pipeline**
-**AWS CodeBuild**
-**Jenkins**
+AWS | AZURE | Google
+----| ----- | ------
+Golden AMI Pipeline | Work in Progress | Work in Progress
+AWS CodeBuild | Work in Progress | Work in Progress
+Jenkins | Work in Progress | Work in Progress
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
