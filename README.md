@@ -28,12 +28,12 @@ AWS | AZURE | Google
 [aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) | WOrk in Progress | Work in Progress
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) | WOrk in Progress | Work in Progress
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| WOrk in Progress | Work in Progress
-## Process Automation
-### Golden AMI Pipeline
+### Process Automation
+#### Golden AMI Pipeline
 
-### AWS CodeBuild
+#### AWS CodeBuild
 
-### Jenkins
+#### Jenkins
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
