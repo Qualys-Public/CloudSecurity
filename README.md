@@ -13,27 +13,28 @@ Agent Automation | AWS CodeBuild
 Connector Automation | Jenkins 
 
 
-### Sensor Automation
-#### Scanner Automation
+1. Sensor Automation
+**Scanner Automation**
 AWS | AZURE | Google
 ----| ----- | ------
 [add_aws_Scanner](https://github.com/Qualys-Public/add_aws_Scanner) | WOrk in Progress | Work in Progress
-### Agent Automation
+
+**Agent Automation**
 AWS | AZURE | Google
 ----| ----- | ------
-### Connector Automation
+
+**Connector Automation**
 AWS | AZURE | Google
 ----| ----- | ------
 [add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | WOrk in Progress | Work in Progress
 [aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) | WOrk in Progress | Work in Progress
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) | WOrk in Progress | Work in Progress
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| WOrk in Progress | Work in Progress
-### Process Automation
-#### Golden AMI Pipeline
 
-#### AWS CodeBuild
-
-#### Jenkins
+2.  Process Automation
+**Golden AMI Pipeline**
+**AWS CodeBuild**
+**Jenkins**
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
