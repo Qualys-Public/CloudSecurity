@@ -20,13 +20,11 @@ Larger projects often have sections on contributing to their project, in which c
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
-[@Mikesh Khanal] (https://github.com/amandernackq)
-@Sean Nicholson
-@Alex Mandernack
-@hsrinivasanqualys
+[Mikesh Khanal]https://github.com/mkhanal1
+[Sean Nicholson]https://github.com/snicholson-qualys
+[Alex Mandernack](https://github.com/amandernackq)
+[hsrinivasanqualys]https://github.com/hsrinivasanqualys
 
 ## License: 
 Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
 
-http://github.com - automatic!
-[GitHub](http://github.com)
