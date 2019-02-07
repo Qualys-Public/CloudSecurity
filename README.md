@@ -12,8 +12,13 @@ Scanner Automation | Golden AMI Pipeline
 Agent Automation | AWS CodeBuild
 Connector Automation | Jenkins 
 
-## Usage: 
-The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+
+## Process Automation
+### Golden AMI Pipeline
+
+### AWS CodeBuild
+
+### Jenkins
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
