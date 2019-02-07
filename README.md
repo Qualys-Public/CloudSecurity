@@ -26,7 +26,7 @@ AWS | AZURE | Google
 AWS | AZURE | Google
 ----| ----- | ------
 [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
-[deploy_qualys_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | Work in Progress | Work in Progress
+[deploy_qualys_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | [deploy_qualys_Azure_Automation](https://github.com/Qualys-Public/deploy_qualys_Azure_Automation) | Work in Progress
 [deploy_qualys_bootstap-AWS](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | Work in Progress | Work in Progress
 [deploy_qualys_CD_Pipeline_AWS](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | Work in Progress | Work in Progress
 [deploy_qualys_s3](https://github.com/Qualys-Public/deploy_qualys_s3)| Work in Progress | Work in Progress
@@ -44,7 +44,7 @@ AWS | AZURE | Google
 
 AWS | AZURE | Google
 ----| ----- | ------
-Golden AMI Pipeline | Work in Progress | Work in Progress
+[Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) | Work in Progress | Work in Progress
 AWS CodeBuild | Work in Progress | Work in Progress
 Jenkins | Work in Progress | Work in Progress
 
