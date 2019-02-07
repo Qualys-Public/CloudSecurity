@@ -13,6 +13,14 @@ Agent Automation | AWS CodeBuild
 Connector Automation | Jenkins 
 
 
+## Sensor Automation
+### Scanner Automation
+AWS | AZURE | Google
+----| ----- | ------
+[Yes](https://github.com/Qualys-Public/add_aws_Scanner) | WOrk in Progress | Work in Progress
+### Agent Automation
+### Connector Automation
+
 ## Process Automation
 ### Golden AMI Pipeline
 
