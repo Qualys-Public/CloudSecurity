@@ -5,6 +5,7 @@ Automation and Integration Scripts for Qualys Cloud Security offerings
 
 
 ## Table of Contents: 
+
 Sensor Automation | Process Automation
 ----------------- | ------------------
 Scanner Automation | Golden AMI Pipeline
