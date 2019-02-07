@@ -16,7 +16,7 @@ Connector Automation | Jenkins
 The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
 ## Contributing: 
-Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
+~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
@@ -24,8 +24,12 @@ we would like to thanks the contributors of various scripts under this project.
 * [Mikesh Khanal](https://github.com/mkhanal1)
 * [Sean Nicholson](https://github.com/snicholson-qualys)
 * [Alex Mandernack](https://github.com/amandernackq)
-* [hsrinivasanqualys](https://github.com/hsrinivasanqualys)
+* [Hari Srinivasan](https://github.com/hsrinivasanqualys)
 
 ## License: 
-Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+
+_THIS SCRIPT IS PROVIDED TO YOU "AS IS." 
+TO THE EXTENT PERMITTED BY LAW, QUALYS HEREBY DISCLAIMS 
+ALL WARRANTIES AND LIABILITY FOR THE PROVISION OR USE OF THIS SCRIPT. 
+IN NO EVENT SHALL THESE SCRIPTS BE DEEMED TO BE CLOUD SERVICES AS PROVIDED BY QUALYS._
 
