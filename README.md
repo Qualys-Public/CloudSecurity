@@ -14,16 +14,20 @@ Connector Automation | Jenkins
 
 
 #### Sensor Automation
+
 **Scanner Automation**
+
 AWS | AZURE | Google
 ----| ----- | ------
 [add_aws_Scanner](https://github.com/Qualys-Public/add_aws_Scanner) | WOrk in Progress | Work in Progress
 
 **Agent Automation**
+
 AWS | AZURE | Google
 ----| ----- | ------
 
 **Connector Automation**
+
 AWS | AZURE | Google
 ----| ----- | ------
 [add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | WOrk in Progress | Work in Progress
@@ -32,6 +36,7 @@ AWS | AZURE | Google
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| WOrk in Progress | Work in Progress
 
 #### Process Automation
+
 **Golden AMI Pipeline**
 **AWS CodeBuild**
 **Jenkins**
