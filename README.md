@@ -6,10 +6,10 @@ Automation and Integration Scripts for Qualys Cloud Security offerings
 
 ## Table of Contents: 
 Sensor Automation | Process Automation
------------------ 
+----------------- | ------------------
 Scanner Automation | Golden AMI Pipeline
-Agent Automation | AWS CodeBuild Scanning
-Connector Automation |
+Agent Automation | AWS CodeBuild
+Connector Automation | Jenkins 
 
 Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
