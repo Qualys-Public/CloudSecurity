@@ -1,12 +1,12 @@
 # CloudSecurity
-##Automation and Integration Scripts for Qualys Cloud Security offerings 
+## Automation and Integration Scripts for Qualys Cloud Security offerings 
 
 
 
 
-##Table of Contents: 
+## Table of Contents: 
 Sensor Automation | Process Automation
------------------ | ------------------
+----------------- 
 Scanner Automation | Golden AMI Pipeline
 Agent Automation | AWS CodeBuild Scanning
 Connector Automation |
