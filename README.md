@@ -27,3 +27,6 @@ we would like to thanks the contributors of various scripts under this project.
 
 ## License: 
 Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+
+http://github.com - automatic!
+[GitHub](http://github.com)
