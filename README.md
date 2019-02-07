@@ -13,7 +13,7 @@ Agent Automation | AWS CodeBuild
 Connector Automation | Jenkins 
 
 
-1. Sensor Automation
+#### Sensor Automation
 **Scanner Automation**
 AWS | AZURE | Google
 ----| ----- | ------
@@ -31,7 +31,7 @@ AWS | AZURE | Google
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) | WOrk in Progress | Work in Progress
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| WOrk in Progress | Work in Progress
 
-2.  Process Automation
+#### Process Automation
 **Golden AMI Pipeline**
 **AWS CodeBuild**
 **Jenkins**
