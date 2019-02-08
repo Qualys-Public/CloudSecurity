@@ -17,15 +17,15 @@ Connector Automation | Jenkins
 
 **Scanner Automation**
 
-AWS | AZURE | Google
-----| ----- | ------
-[add_aws_Scanner](https://github.com/Qualys-Public/add_aws_Scanner) | WOrk in Progress | Work in Progress
+AWS |
+----|
+[AWS_Scanner_CloudFormation](https://github.com/Qualys-Public/add_aws_Scanner) |
 
 **Agent Automation**
 
 AWS | AZURE | Google
 ----| ----- | ------
-[deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
+[Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
 [deploy_qualys_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | [deploy_qualys_Azure_Automation](https://github.com/Qualys-Public/deploy_qualys_Azure_Automation) | Work in Progress
 [deploy_qualys_bootstap-AWS](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | Work in Progress | Work in Progress
 [deploy_qualys_CD_Pipeline_AWS](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | Work in Progress | Work in Progress
