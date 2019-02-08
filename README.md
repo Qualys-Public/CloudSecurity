@@ -33,20 +33,20 @@ AWS | AZURE | Google
    
 **Connector Automation**
 
-AWS | AZURE | Google
-----| ----- | ------
-[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | Work in Progress | Work in Progress
-[aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) | Work in Progress | Work in Progress
-[add_aws_account](https://github.com/Qualys-Public/add_aws_account) | Work in Progress | Work in Progress
-[aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)| Work in Progress | Work in Progress
+AWS |
+----|
+[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) |
+[aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) |
+[add_aws_account](https://github.com/Qualys-Public/add_aws_account) |
+[aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)|
 
 #### Process Automation
 
-AWS | AZURE | Google
-----| ----- | ------
-[Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) | Work in Progress | Work in Progress
-AWS CodeBuild | Work in Progress | Work in Progress
-Jenkins | Work in Progress | Work in Progress
+AWS |
+----|
+[Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) |
+AWS CodeBuild |
+Jenkins |
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
