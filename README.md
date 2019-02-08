@@ -7,8 +7,8 @@
 Sensor Automation | Process Automation
 ----------------- | ------------------
 Scanner Automation | Golden AMI Pipeline
-Agent Automation | AWS CodeBuild
-Connector Automation | Jenkins 
+Agent Automation | 
+Connector Automation | 
 
 
 ### Sensor Automation
