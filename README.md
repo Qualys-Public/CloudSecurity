@@ -23,11 +23,11 @@ AWS |
 
 AWS | AZURE | Google
 ----| ----- | ------
-[Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [deploy_qualys_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
-[deploy_qualys_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | [deploy_qualys_Azure_Automation](https://github.com/Qualys-Public/deploy_qualys_Azure_Automation) | Work in Progress
-[deploy_qualys_bootstap-AWS](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | Work in Progress | Work in Progress
-[deploy_qualys_CD_Pipeline_AWS](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | Work in Progress | Work in Progress
-[deploy_qualys_s3](https://github.com/Qualys-Public/deploy_qualys_s3)| Work in Progress | Work in Progress
+[Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
+[AWS_Cloud_Agent_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | [AZURE_Cloud_Agent_AutomationAccount](https://github.com/Qualys-Public/deploy_qualys_Azure_Automation) |
+[AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | 
+[AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | 
+[AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys-Public/deploy_qualys_s3)| 
    
 **Connector Automation**
 
