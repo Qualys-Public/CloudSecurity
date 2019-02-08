@@ -2,8 +2,6 @@
 Automation and Integration Scripts for Qualys Cloud Security offerings 
 
 
-
-
 ## Table of Contents: 
 
 Sensor Automation | Process Automation
@@ -45,8 +43,6 @@ AWS |
 AWS |
 ----|
 [Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) |
-AWS CodeBuild |
-Jenkins |
 
 ## Contributing: 
 ~~Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.~~
@@ -61,8 +57,8 @@ we would like to thanks the contributors of various scripts under this project.
 
 ## License: 
 
-_THIS SCRIPT IS PROVIDED TO YOU "AS IS." 
+_**THIS SCRIPT IS PROVIDED TO YOU "AS IS." 
 TO THE EXTENT PERMITTED BY LAW, QUALYS HEREBY DISCLAIMS 
 ALL WARRANTIES AND LIABILITY FOR THE PROVISION OR USE OF THIS SCRIPT. 
-IN NO EVENT SHALL THESE SCRIPTS BE DEEMED TO BE CLOUD SERVICES AS PROVIDED BY QUALYS._
+IN NO EVENT SHALL THESE SCRIPTS BE DEEMED TO BE CLOUD SERVICES AS PROVIDED BY QUALYS.**_
 
