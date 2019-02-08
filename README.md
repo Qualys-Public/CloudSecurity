@@ -11,7 +11,7 @@ Agent Automation | AWS CodeBuild
 Connector Automation | Jenkins 
 
 
-#### Sensor Automation
+### Sensor Automation
 
 **Scanner Automation**
 
@@ -38,7 +38,7 @@ AWS |
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) |
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)|
 
-#### Process Automation
+### Process Automation
 
 AWS |
 ----|
