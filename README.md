@@ -1,5 +1,5 @@
 # CloudSecurity
-Automation and Integration Scripts for Qualys Cloud Security offerings 
+**Automation and Integration Scripts for Qualys Cloud Security offerings** 
 
 
 ## Table of Contents: 
