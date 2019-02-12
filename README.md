@@ -58,47 +58,47 @@ This helps you to create cross-account role trust, assign Security Audit Policy,
 
 This helps you to do a CSV import of AWS Accounts to create connectors. 
 
-* **AWS_Connector_CloudFormation 
+* **AWS_Connector_CloudFormation** 
 
 This helps you to create cross-account role trust, assign Security Audit Policy, and a Connector using a CloudFormation Template that can be run in AWS account. 
 
-* **AWS_Scanner_CloudFormation 
+* **AWS_Scanner_CloudFormation** 
 
 This helps you to create a pre authorized scanners using a CloudFormation Template that can be run in AWS account. 
 
-* **AZURE_Connector_CSV 
+* **AZURE_Connector_CSV** 
 
 This helps you to do a CSV import of Azure subscriptions to create connectors. 
 
-* **AWS_Cloud_Agent_SSM 
+* **AWS_Cloud_Agent_SSM** 
 
 This helps you to deploy Cloud Agent across your AWS System Manager (SSM managed) managed instances using SSM. 
 
-* **Cloud_Agent_Ansible 
+* **Cloud_Agent_Ansible** 
 
 This helps you to deploy Cloud Agent across your Linux instances in any cloud. 
 
-* **AWS_Cloud_Agent_UserdataScripts 
+* **AWS_Cloud_Agent_UserdataScripts** 
 
 This helps you to deploy Cloud Agent across your instances using user data scripts. 
 
-* **AWS_Cloud_Agent_CodePipeline 
+* **AWS_Cloud_Agent_CodePipeline** 
 
 This helps you to deploy Cloud Agent across your instances using Ansible Playbook added in repository as Configuration management or Continuous Delivery. 
 
-* **AWS_Cloud_Agent_Bootstrap 
+* **AWS_Cloud_Agent_Bootstrap**
 
 This helps you to deploy Cloud Agent across your instances while its launching using AWS CloudWatch, Lambda & SSM Doc for Bootstrap 
 
-* **AZURE_Cloud_Agent_AutomationAccount 
+* **AZURE_Cloud_Agent_AutomationAccount** 
 
 This helps you to deploy Cloud Agent across your virtual machines using Azure Automation and Run command 
 
-* **AWS_BeanStalk_Cloud_Agent_Ebextensions 
+* **AWS_BeanStalk_Cloud_Agent_Ebextensions** 
 
 This helps you to deploy Cloud Agent across your Elastic Beanstalk instances using yaml config file in .ebextensions folder 
 
-* **AWS_Golden_Ami_Pipeline 
+* **AWS_Golden_Ami_Pipeline**
 
 This helps you to create a Golden AMI Pipeline integrated with a pre authorized scanner for vulnerability assessments 
 
