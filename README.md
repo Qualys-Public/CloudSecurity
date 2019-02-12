@@ -37,7 +37,8 @@ AWS |
 ----|
 [Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) |
 
-### Description
+
+## Description
 
 * **AWS_CV_Connector_CSV** 
 
