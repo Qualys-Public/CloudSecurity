@@ -4,13 +4,6 @@
 
 ## Table of Contents: 
 
-Sensor Automation | Process Automation
------------------ | ------------------
-Scanner Automation | Golden AMI Pipeline
-Agent Automation | 
-Connector Automation | 
-
-
 ### Sensor Automation
 
 **Scanner Automation**
