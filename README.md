@@ -5,8 +5,9 @@
 ## Table of Contents: 
 
 ### Sensor Automation
+The Qualys Cloud Platform, with its active scanning (Scanner), always-on agents (Cloud Agent), cloud visibility connectors (Connector), provides global enterprises with unprecedented 2-second visibility of their cloud infrastructure.
 
-1. **pre-authorized virtual scanner**: The Qualys Virtual Scanner Appliance extends the reach of the Qualys Cloud Platform into the internal networks of Amazon VPC. This "Pre-Authorized Scanning" version of the virtual scanner is for use with the "EC2 Scanning" workflow within the Qualys Vulnerability Management solution 
+1. **Pre-authorized virtual scanner**: The Qualys Virtual Scanner Appliance extends the reach of the Qualys Cloud Platform into the internal networks of Amazon VPC. This "Pre-Authorized Scanning" version of the virtual scanner is for use with the "EC2 Scanning" workflow within the Qualys Vulnerability Management solution 
 
 AWS |
 ----|
@@ -32,6 +33,7 @@ AWS |
 
 
 ### Process Automation
+As part of our broader efforts to assist our customers to adopt cloud and secure it at rapid pace, we have other process automations.
 
 AWS |
 ----|
@@ -50,10 +52,10 @@ AWS |
 * **Cloud_Agent_Ansible** - This helps you to deploy Cloud Agent across your Linux instances in any cloud. 
 * **AWS_Cloud_Agent_UserdataScripts** - This helps you to deploy Cloud Agent across your instances using user data scripts. 
 * **AWS_Cloud_Agent_CodePipeline** - This helps you to deploy Cloud Agent across your instances using Ansible Playbook added in repository as Configuration management or Continuous Delivery. 
-* **AWS_Cloud_Agent_Bootstrap** - This helps you to deploy Cloud Agent across your instances while its launching using AWS CloudWatch, Lambda & SSM Doc for Bootstrap 
-* **AZURE_Cloud_Agent_AutomationAccount** - This helps you to deploy Cloud Agent across your virtual machines using Azure Automation and Run command 
-* **AWS_BeanStalk_Cloud_Agent_Ebextensions** - This helps you to deploy Cloud Agent across your Elastic Beanstalk instances using yaml config file in .ebextensions folder 
-* **AWS_Golden_Ami_Pipeline** - This helps you to create a Golden AMI Pipeline integrated with a pre authorized scanner for vulnerability assessments 
+* **AWS_Cloud_Agent_Bootstrap** - This helps you to deploy Cloud Agent across your instances while its launching using AWS CloudWatch, Lambda & SSM Doc for Bootstrap. 
+* **AZURE_Cloud_Agent_AutomationAccount** - This helps you to deploy Cloud Agent across your virtual machines using Azure Automation and Run command. 
+* **AWS_BeanStalk_Cloud_Agent_Ebextensions** - This helps you to deploy Cloud Agent across your Elastic Beanstalk instances using yaml config file in .ebextensions folder. 
+* **AWS_Golden_Ami_Pipeline** - This helps you to create a Golden AMI Pipeline integrated with a pre authorized scanner for vulnerability assessments.
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
