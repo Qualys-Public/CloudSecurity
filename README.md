@@ -1,4 +1,4 @@
-# Qualys "Cloud Security" Utilities
+# Qualys 'Cloud Security' Utilities
 **Automation and Integration Scripts for Qualys Cloud Security offerings** 
 
 
