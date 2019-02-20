@@ -6,12 +6,12 @@
 
 ### Sensor Automation
 
-1. **Scanner Automation**
+1. **pre-authorized virtual scanner**: The Qualys Virtual Scanner Appliance extends the reach of the Qualys Cloud Platform into the internal networks of Amazon VPC. This "Pre-Authorized Scanning" version of the virtual scanner is for use with the "EC2 Scanning" workflow within the Qualys Vulnerability Management solution 
 
 AWS |
 ----|
 [AWS_Scanner_CloudFormation](https://github.com/Qualys-Public/add_aws_Scanner) |
-2. **Agent Automation**
+2. **Cloud Agent**: A lightweight agent that does continuous assessment of your environment for security and compliance.
 
 AWS | AZURE | Google
 ----| ----- | ------
@@ -20,7 +20,7 @@ AWS | AZURE | Google
 [AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | 
 [AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | 
 [AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys-Public/deploy_qualys_s3)|  
-3. **Connector Automation**
+3. **Connector**: The Qualys Connector continuously discovers assets using an API integration. Connectors may be configured to connect to one or more accounts/subscriptions/projects so they can automatically detect and synchronize changes to inventories across your Cloud.
 
 AWS |
 ----|
