@@ -80,6 +80,7 @@ we would like to thanks the contributors of various scripts under this project.
 * [Sean Nicholson](https://github.com/snicholson-qualys)
 * [Alex Mandernack](https://github.com/amandernackq)
 * [Hari Srinivasan](https://github.com/hsrinivasanqualys)
+* [Vishal Vetal](https://github.com/vvetalqualys)
 
 ## License: 
 
