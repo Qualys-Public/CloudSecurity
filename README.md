@@ -12,7 +12,7 @@ AWS |
 ----|
 [AWS_Scanner_CloudFormation](https://github.com/Qualys-Public/add_aws_Scanner) |
 
-**Agent Automation**
+2. **Agent Automation**
 
 AWS | AZURE | Google
 ----| ----- | ------
@@ -22,7 +22,7 @@ AWS | AZURE | Google
 [AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | 
 [AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys-Public/deploy_qualys_s3)| 
    
-2. **Connector Automation**
+3. **Connector Automation**
 
 AWS |
 ----|
@@ -31,7 +31,7 @@ AWS |
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) |
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)|
 
-3. ### Process Automation
+### Process Automation
 
 AWS |
 ----|
