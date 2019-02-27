@@ -40,6 +40,12 @@ AWS |
 [Golden AMI Pipeline](https://github.com/Qualys-Public/golden-ami-pipeline-with-qualys) |
 
 
+### Integrations
+
+SPLUNK |
+-------|
+[CloudView_Splunk_Scripted_Inputs](https://github.com/Qualys-Public/CloudView_Splunk_Scripted_Inputs)
+
 ## Description
 
 * **AWS_CV_Connector_CSV** - This helps you to do a CSV import of AWS Accounts to create Cloudview connectors. 
@@ -56,6 +62,7 @@ AWS |
 * **AZURE_Cloud_Agent_AutomationAccount** - This helps you to deploy Cloud Agent across your virtual machines using Azure Automation and Run command. 
 * **AWS_BeanStalk_Cloud_Agent_Ebextensions** - This helps you to deploy Cloud Agent across your Elastic Beanstalk instances using yaml config file in .ebextensions folder. 
 * **AWS_Golden_Ami_Pipeline** - This helps you to create a Golden AMI Pipeline integrated with a pre authorized scanner for vulnerability assessments.
+* **CloudView_Splunk_Scripted_Inputs** - This helps you to integrate CloudView via python scripted inputs into Splunk Enterprise
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
