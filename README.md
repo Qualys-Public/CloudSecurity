@@ -63,6 +63,9 @@ SPLUNK |
 * **AWS_BeanStalk_Cloud_Agent_Ebextensions** - This helps you to deploy Cloud Agent across your Elastic Beanstalk instances using yaml config file in .ebextensions folder. 
 * **AWS_Golden_Ami_Pipeline** - This helps you to create a Golden AMI Pipeline integrated with a pre authorized scanner for vulnerability assessments.
 * **CloudView_Splunk_Scripted_Inputs** - This helps you to integrate CloudView via python scripted inputs into Splunk Enterprise
+* **CloudView-Connector-Azure** - This helps you to deploy Azure Connector(s) in CloudView using Management Group or ARM Template
+* **CloudView-Connector-GCP** - This helps you to deploy GCP Connector(s) in CloudView using python to onboard GCP organization or projects in a CSV
+* **CloudAgent-Azure-ARMTemplate** - This will help you to install Cloud Agent (CA) on Azure Linux or Windows VM using VM extension through ARM Template
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
