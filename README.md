@@ -18,14 +18,14 @@ AWS | AZURE | Google
 ----| ----- | ------
 [Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible) | [Cloud_Agent_Ansible](https://github.com/Qualys-Public/deploy_qualys_Ansible)
 [AWS_Cloud_Agent_SSM](https://github.com/Qualys-Public/deploy_qualys_SSM) | [AZURE_Cloud_Agent_AutomationAccount](https://github.com/Qualys-Public/deploy_qualys_Azure_Automation) |
-[AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | 
+[AWS_Cloud_Agent_Bootstrap](https://github.com/Qualys-Public/deploy_qualys_bootstap-AWS) | [CloudAgent-Azure-ARMTemplate](https://github.com/Qualys-Public/CloudAgent-Azure-ARMTemplate)
 [AWS_Cloud_Agent_CodePipeline](https://github.com/Qualys-Public/deploy_qualys_CD_Pipeline_AWS) | 
 [AWS_Cloud_Agent_UserdataScripts](https://github.com/Qualys-Public/deploy_qualys_s3)|  
 3. **Connector**: The Qualys Connector continuously discovers assets using an API integration. Connectors may be configured to connect to one or more accounts/subscriptions/projects so they can automatically detect and synchronize changes to inventories across your Cloud.
 
-AWS |
-----|
-[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) |
+AWS | AZURE | Google
+----| ----- | ------
+[add_ec2_connector](https://github.com/Qualys-Public/add_ec2_connector) | [CloudView-Connector-Azure](https://github.com/Qualys-Public/CloudView-Connector-Azure) | [CloudView-Connector-GCP](https://github.com/Qualys-Public/CloudView-Connector-GCP)
 [aws-ec2-connector-cf](https://github.com/Qualys-Public/aws-ec2-connector-cf) |
 [add_aws_account](https://github.com/Qualys-Public/add_aws_account) |
 [aws-cv-connector-cf](https://github.com/Qualys-Public/aws-cv-connector-cf)|
