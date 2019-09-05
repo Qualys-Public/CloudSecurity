@@ -42,9 +42,9 @@ AWS |
 
 ### Integrations
 
-SPLUNK |
--------|
-[CloudView_Splunk_Scripted_Inputs](https://github.com/Qualys-Public/CloudView_Splunk_Scripted_Inputs)
+SPLUNK | SLACK   |
+-------| ------- |
+[CloudView_Splunk_Scripted_Inputs](https://github.com/Qualys-Public/CloudView_Splunk_Scripted_Inputs) | [slack_cloudview_alerts](https://github.com/Qualys-Public/slack_cloudview_alerts)|
 
 ## Description
 
@@ -66,6 +66,7 @@ SPLUNK |
 * **CloudView-Connector-Azure** - This helps you to deploy Azure Connector(s) in CloudView using Management Group or ARM Template
 * **CloudView-Connector-GCP** - This helps you to deploy GCP Connector(s) in CloudView using python to onboard GCP organization or projects in a CSV
 * **CloudAgent-Azure-ARMTemplate** - This will help you to install Cloud Agent (CA) on Azure Linux or Windows VM using VM extension through ARM Template
+* **slack_cloudview_alerts** - This helps you to integrate CloudView Assessment data into Slack for alerting
 
 ## Credits: 
 we would like to thanks the contributors of various scripts under this project.
