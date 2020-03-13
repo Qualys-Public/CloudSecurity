@@ -76,6 +76,7 @@ we would like to thanks the contributors of various scripts under this project.
 * [Alex Mandernack](https://github.com/amandernackq)
 * [Hari Srinivasan](https://github.com/hsrinivasanqualys)
 * [Vishal Vetal](https://github.com/vvetal)
+* [Sadanand Nerurkar](https://github.com/sadanandn84)
 
 ## License: 
 
